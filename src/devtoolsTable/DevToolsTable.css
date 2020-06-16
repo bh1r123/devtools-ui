@@ -1,0 +1,9 @@
+.TopButtons{
+    display: flex;
+    margin: 20px;
+    justify-content: flex-end;
+}
+
+.MarginButtons{
+    margin-right: 20px;
+}
